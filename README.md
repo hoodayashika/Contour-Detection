@@ -18,4 +18,5 @@ The process, from loading and resizing the image to converting it to grayscale, 
 - Binary Thresholding: A binary threshold is applied to create a clear distinction between the object and the background.
 - Contour Detection: Contours are detected on the thresholded image.
 - Contour Drawing: The detected contours are drawn on the original image, highlighting object boundaries.
+
 All images are displayed within the Jupyter Notebook for better visualization of each step.
