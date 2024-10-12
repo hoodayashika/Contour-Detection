@@ -9,7 +9,7 @@ In this project, we apply the following steps to detect contours in an image:
 - Binary Thresholding: A threshold is applied to differentiate the foreground (object) from the background.
 - Contour Detection: Detects the contours of objects within the image.
 - Contour Drawing: The detected contours are drawn on the original image for visual analysis.
-- 
+
 The process, from loading and resizing the image to converting it to grayscale, applying binary thresholding, detecting contours, and drawing these contours on the image, is displayed within the Jupyter Notebook using matplotlib.
 
 ### Steps Involved:
